@@ -5,12 +5,12 @@ h1{font-size: 55px;}
 .colour{color:rgb(255, 0, 0);}
 
 .half-box{
-width: 40%;  
+width: 50%;  
 float: left;  
 margin-left: 0%;
 padding-left: 5%;
 }
-.half-box img{width: 75%;}
+.half-box img{width: 50%;}
 .top-banner{
 background-image: url("images/top-banner.png");
 background-repeat: no-repeat;
